@@ -1,0 +1,13 @@
+./dataset
+./dataframe.csv
+./word2vec.wordvectors
+.ipynb_checkpoints/
+
+word2vec.wordvectors
+
+./dataframe.csv
+dataframe.csv
+.venv
+
+
+dataset/
